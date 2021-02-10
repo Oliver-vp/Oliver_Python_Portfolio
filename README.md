@@ -1,5 +1,3 @@
-# Oliver_Python_Portfolio
-Showcase Python projects
 # Measuring Systemic Risk with PCA - Absorption Ratio
 Using Principal Component Analysis (PCA) to calculate Absorption Ratio as a measure of Systemic Risk.
 ## Poject breakdown
