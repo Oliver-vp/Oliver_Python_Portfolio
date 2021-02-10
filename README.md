@@ -6,3 +6,4 @@ Using Principal Component Analysis (PCA) to calculate Absorption Ratio as a meas
 - Create a single dataframe with all the CSV files
 - Use PCA to calculate the Absorption Ratio
 - Visualisation of calculations
+## Project's Code [Notebook](https://github.com/Oliver-vp/Jupyter_Notebooks/blob/main/PCA%20Absorption%20Ratio%20SP500.ipynb)
