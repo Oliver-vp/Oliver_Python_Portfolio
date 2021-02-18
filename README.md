@@ -9,7 +9,6 @@ In 2010 few researches introduced the **absorption ratio** as an alternative to 
 *Kritzman, Mark and Li, Yuanzhen and Page, Sebastien and Rigobon, Roberto, Principal Components as a Measure of Systemic Risk (March 31, 2010).* Available at SSRN: https://ssrn.com/abstract=1582687 or http://dx.doi.org/10.2139/ssrn.1582687
 
 ### Absorption Ratio equation:
-\\[ AR = {\sum_{i=1}^N\sigma_{Ei}^2 \over \sum_{j=1}^N\sigma_{Aj}^2} \\]
 
 
 ### PCA
