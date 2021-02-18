@@ -8,6 +8,9 @@ In 2010 few researches introduced the **absorption ratio** as an alternative to 
 
 *Kritzman, Mark and Li, Yuanzhen and Page, Sebastien and Rigobon, Roberto, Principal Components as a Measure of Systemic Risk (March 31, 2010).* Available at SSRN: https://ssrn.com/abstract=1582687 or http://dx.doi.org/10.2139/ssrn.1582687
 ### PCA
+PCA is a dimensionality- reduction method that is used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information from the original large set (Jaadi).
+
+*Jaadi, Z. (n.d.). A step-by-step explanation of principal component analysis. Retrieved February 18, 2021, from https://builtin.com/data-science/step-step-explanation-principal-component-analysis
 
 ## Poject breakdown
 - Get all the Stock tickers that compose the SP500 from Wikipedia
