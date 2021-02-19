@@ -10,7 +10,7 @@ In 2010 few researches introduced the **absorption ratio** as an alternative to 
 
 ### Absorption Ratio equation:
 ![](/Images/A_ratioEq1.PNG)
-- AR=absorpio ratio
+
 ### PCA
 PCA is a dimensionality- reduction method that is used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information from the original large set (Jaadi).
 
