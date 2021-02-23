@@ -18,6 +18,7 @@ PCA is a dimensionality- reduction method that is used to reduce the dimensional
 *Jaadi, Z. (n.d.). A step-by-step explanation of principal component analysis. Retrieved February 18, 2021, from https://builtin.com/data-science/step-step-explanation-principal-component-analysis
 
 ## Poject breakdown
+In this section it will be explained the calculation of the Absorption Ratio in Python. After that is an analysis along with the visualisation of the ration against the S&P500. Some specific periods will be broken down for a more granular analysis. At the end of this section there is a general description of the code's steps and a link to the code in a Jupyter Notebook.
 - Get all the Stock tickers that compose the SP500 from Wikipedia
 - Download historical time series files for each stock from Yahoo Finance
 - Create a single dataframe with all the CSV files
