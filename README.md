@@ -19,7 +19,7 @@ PCA is a dimensionality- reduction method that is used to reduce the dimensional
 
 ## Poject breakdown
 In this section it will be explained the calculation of the Absorption Ratio in Python and a visualisation of the ratio against the S&P500 along with an analysis. After that, some specific periods will be broken down for a more granular analysis. At the end of this section there is a general description of the code's steps and a link to the code in a Jupyter Notebook.
-- Get all the Stock tickers that compose the SP500 from Wikipedia
+- Get all the Stock tickers that compose the S&P500 from Wikipedia
 - Download historical time series files for each stock from Yahoo Finance
 - Create a single dataframe with all the CSV files
 - Use PCA to calculate the Absorption Ratio
