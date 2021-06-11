@@ -6,7 +6,7 @@ Since the financial crisis in 2008 and the recent pandemic, governments and inst
 
 In 2010 few researches introduced the **absorption ratio** as an alternative to meassure implied systemic risk. The absorption ratio captures the extent to which markets are unified or tightly coupled. When markets are tightly coupled, they are more fragile in the sense that **negative shocks** propagate more quickly (Kritzman et al., 2010).
 
-*Kritzman, Mark and Li, Yuanzhen and Page, Sebastien and Rigobon, Roberto, Principal Components as a Measure of Systemic Risk (March 31, 2010).* Available at SSRN: <https://ssrn.com/abstract=1582687> or [(http://dx.doi.org/10.2139/ssrn.1582687)].
+*Kritzman, Mark and Li, Yuanzhen and Page, Sebastien and Rigobon, Roberto, Principal Components as a Measure of Systemic Risk (March 31, 2010).* Available at SSRN: <https://ssrn.com/abstract=1582687> or <http://dx.doi.org/10.2139/ssrn.1582687>.
 
 ### Absorption Ratio equation:
 
@@ -15,7 +15,7 @@ In 2010 few researches introduced the **absorption ratio** as an alternative to 
 ### PCA
 PCA is a dimensionality- reduction method that is used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information from the original large set (Jaadi).
 
-*Jaadi, Z. (n.d.). A step-by-step explanation of principal component analysis. Retrieved February 18, 2021, from https://builtin.com/data-science/step-step-explanation-principal-component-analysis
+*Jaadi, Z. (n.d.). A step-by-step explanation of principal component analysis. Retrieved February 18, 2021, from <https://builtin.com/data-science/step-step-explanation-principal-component-analysis>
 
 ## Poject breakdown
 In this section it will be explained the calculation of the Absorption Ratio in Python and a visualisation of the ratio against the S&P500 along with an analysis. After that, some specific periods will be broken down for a more granular analysis. At the end of this section there is a general description of the code's steps and a link to the code in a Jupyter Notebook.
