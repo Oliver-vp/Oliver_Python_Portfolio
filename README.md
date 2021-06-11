@@ -1,6 +1,6 @@
 # Measuring Systemic Risk with PCA - Absorption Ratio
 ## Objective:
-Using Principal Component Analysis (PCA) to calculate Absorption Ratio as a measure of Systemic Risk.
+Applying Principal Component Analysis (PCA) to the  group of stocks that conform the S&P500 in order to calculate the Absorption Ratio as a measure of Systemic Risk.
 ## Background
 Since the financial crisis in 2008 and the recent pandemic, governments and institutions have try to have better tools to meassure systemic risk and protect themselves against drastic shifts in the economy.
 
