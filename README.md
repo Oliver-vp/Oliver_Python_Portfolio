@@ -2,11 +2,11 @@
 ## Objective:
 Applying Principal Component Analysis (PCA) to the  group of stocks that conform the S&P500 in order to calculate the Absorption Ratio as a measure of Systemic Risk.
 ## Background
-Since the financial crisis in 2008 and the recent pandemic, governments and institutions have try to have better tools to meassure systemic risk and protect themselves against drastic shifts in the economy.
+Since the financial crisis in 2008 and the recent pandemic, governments and institutions have try to create better tools to meassure systemic risk and protect themselves against drastic shifts in the economy.
 
-In 2010 few researches introduced the **absorption ratio** as an alternative to meassure implied systemic risk. The absorption ratio captures the extent to which markets are unified or tightly coupled. When markets are tightly coupled, they are more fragile in the sense that negative shocks propagate more quickly (Kritzman et al., 2010).
+In 2010 few researches introduced the **absorption ratio** as an alternative to meassure implied systemic risk. The absorption ratio captures the extent to which markets are unified or tightly coupled. When markets are tightly coupled, they are more fragile in the sense that **negative shocks** propagate more quickly (Kritzman et al., 2010).
 
-*Kritzman, Mark and Li, Yuanzhen and Page, Sebastien and Rigobon, Roberto, Principal Components as a Measure of Systemic Risk (March 31, 2010).* Available at SSRN: https://ssrn.com/abstract=1582687 or http://dx.doi.org/10.2139/ssrn.1582687
+*Kritzman, Mark and Li, Yuanzhen and Page, Sebastien and Rigobon, Roberto, Principal Components as a Measure of Systemic Risk (March 31, 2010).* Available at SSRN: (https://ssrn.com/abstract=1582687) or (http://dx.doi.org/10.2139/ssrn.1582687)
 
 ### Absorption Ratio equation:
 
